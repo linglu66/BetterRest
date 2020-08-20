@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		10863BEC24EEC6900013A008 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 10863BEB24EEC6900013A008 /* SleepCalculator.mlmodel */; };
 		10E2C02B24E9DFA900FF00DC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E2C02A24E9DFA900FF00DC /* AppDelegate.swift */; };
 		10E2C02D24E9DFA900FF00DC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E2C02C24E9DFA900FF00DC /* SceneDelegate.swift */; };
 		10E2C02F24E9DFA900FF00DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E2C02E24E9DFA900FF00DC /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		10863BEB24EEC6900013A008 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 		10E2C02724E9DFA900FF00DC /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10E2C02A24E9DFA900FF00DC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		10E2C02C24E9DFA900FF00DC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				10E2C03024E9DFAB00FF00DC /* Assets.xcassets */,
 				10E2C03524E9DFAB00FF00DC /* LaunchScreen.storyboard */,
 				10E2C03824E9DFAB00FF00DC /* Info.plist */,
+				10863BEB24EEC6900013A008 /* SleepCalculator.mlmodel */,
 				10E2C03224E9DFAB00FF00DC /* Preview Content */,
 			);
 			path = BetterRest;
@@ -148,6 +151,7 @@
 			files = (
 				10E2C02B24E9DFA900FF00DC /* AppDelegate.swift in Sources */,
 				10E2C02D24E9DFA900FF00DC /* SceneDelegate.swift in Sources */,
+				10863BEC24EEC6900013A008 /* SleepCalculator.mlmodel in Sources */,
 				10E2C02F24E9DFA900FF00DC /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
